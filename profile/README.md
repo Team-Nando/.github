@@ -1,7 +1,7 @@
-# Welcome to Team Nando's Public Repositories
+# Welcome to Team Nando's Public Repositories!
 
 Here you will find multiple repositories that can help you understand and develop advanced techniques to model and analyse distribution networks with distributed energy resources (DERs) such as residential solar PV, electric vehicles, etc.
-These repositories are designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course!) but not too advanced.
+These repositories are designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course! :nerd_face:) but not too advanced :wink:.
 
 ## 1. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
