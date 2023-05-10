@@ -1,12 +1,34 @@
-## Hi there 👋
+# Welcome to Team Nando's Public Repositories
+
+Here you will find multiple repositories that can help you understand and develop advanced techniques to model and analyse distribution networks with distributed energy resources (DERs) such as residential solar PV, electric vehicles, etc.
+These repositories are designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course!) but not too advanced.
+
+## 1. Operating Envelope (OE) Algorithms
+These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
+- OE Algorithm 1: Ideal
+- OE Algorithm 2: Asset Capacity
+- OE Algorithm 3: Asset Capacity & Critical Voltage OE
+- OE Algorithm 4: Asset Capacity & Delta Voltage OE
+
+*Want to learn more about ***Operating Envelopes***? Visit [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge).*
+
+## 2. Tutorial on DER Hosting Capacity
+This tutorial will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks.
+- [Part 0: Using dss_python](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python)
+- [Part 1: Advanced Tools for the Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV)
+- [Part 2: Time-Series Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
+
+*Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
+
+## Contact
+Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
+
+## Acknowledgement
+The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
+
+* https://sites.google.com/view/luisfochoa/research/research-team
+* https://sites.google.com/view/luisfochoa/research/past-team-members
 
 <!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
