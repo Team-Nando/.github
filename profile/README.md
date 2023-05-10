@@ -20,6 +20,14 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 
 *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
 
+## 3. DER Profiles
+These repositories provide realistic time-series DER profiles necessary to carry out detailed distribution network studies.
+- [EV Profiles](https://github.com/Team-Nando/EV-Demand-Profiles)
+
+## 4. AC Optimal Power Flow for Distribution Networks
+These repositories provide examples of how the AC Optimal Power Flow (OPF) can be used for different distribution network applications.
+- [Balanced AC OPF for DG Studies](https://github.com/Team-Nando/Balanced-AC-OPF-for-DG-Studies)
+
 ## Contact
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
