@@ -5,10 +5,10 @@ These repositories are designed for power engineers, students, researchers, cons
 
 ## 1. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
-- OE Algorithm 1: Ideal
-- OE Algorithm 2: Asset Capacity
-- OE Algorithm 3: Asset Capacity & Critical Voltage OE
-- OE Algorithm 4: Asset Capacity & Delta Voltage OE
+- OE Algorithm 1: Ideal (***available soon***)
+- OE Algorithm 2: Asset Capacity (***available soon***)
+- OE Algorithm 3: Asset Capacity & Critical Voltage OE (***available soon***)
+- OE Algorithm 4: Asset Capacity & Delta Voltage OE (***available soon***)
 
 *Want to learn more about ***Operating Envelopes***? Visit [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge).*
 
