@@ -10,7 +10,9 @@ The repositories have been designed for power engineers, students, researchers, 
 This tutorial will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks.
 - [Part 0: Using dss_python](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python)
 - [Part 1: Advanced Tools for the Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV)
-- [Part 2: Time-Series Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
+- [Part 2: Time-Series Analysis and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
+- Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks (***available soon***)
+- Part 4: Probabilistic Assessment of PV Hosting Capacity of an Integrated MV-LV Network (***available soon***)
 
 *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
 
