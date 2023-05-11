@@ -1,7 +1,10 @@
 # Welcome to Team Nando's Public Repositories!
 
-Here you will find multiple repositories that can help you understand and develop advanced techniques to model and analyse distribution networks with distributed energy resources (DERs) such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
-These repositories are designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced 😉.
+***Interested in Distribution Networks, Distributed Energy Resources (DERs), and Smart Grids?***
+
+Here you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy). These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
+
+The repositories have been designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced 😉.
 
 ## 1. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
