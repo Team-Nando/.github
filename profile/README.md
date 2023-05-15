@@ -18,10 +18,10 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 
 ## 2. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
-- OE Algorithm 1: Ideal (***available soon***)
-- OE Algorithm 2: Asset Capacity (***available soon***)
-- OE Algorithm 3: Asset Capacity & Critical Voltage OE (***available soon***)
-- OE Algorithm 4: Asset Capacity & Delta Voltage OE (***available soon***)
+- [OE Algorithm 1: Ideal](https://github.com/Team-Nando/OE1-Ideal) (***available soon***)
+- [OE Algorithm 2: Asset Capacity](https://github.com/Team-Nando/OE2-Asset_Capacity) (***available soon***)
+- [OE Algorithm 3: Asset Capacity & Critical Voltage OE](https://github.com/Team-Nando/OE3-Asset_Capacity_Critical_V) (***available soon***)
+- [OE Algorithm 4: Asset Capacity & Delta Voltage OE](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V) (***available soon***)
 
 *Want to learn more about ***Operating Envelopes***? Visit [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge).*
 
