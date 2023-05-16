@@ -11,17 +11,17 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 - [Part 0: Using dss_python](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python)
 - [Part 1: Advanced Tools for the Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV)
 - [Part 2: Time-Series Analysis and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
-- Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks (***available soon***)
-- Part 4: Probabilistic Assessment of PV Hosting Capacity of an Integrated MV-LV Network (***available soon***)
+- Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks (***coming soon***)
+- Part 4: Probabilistic Assessment of PV Hosting Capacity of an Integrated MV-LV Network (***coming soon***)
 
 *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
 
 ## 2. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
-- [OE Algorithm 1: Ideal](https://github.com/Team-Nando/OE1-Ideal) (***available soon***)
-- [OE Algorithm 2: Asset Capacity](https://github.com/Team-Nando/OE2-Asset_Capacity) (***available soon***)
-- [OE Algorithm 3: Asset Capacity & Critical Voltage OE](https://github.com/Team-Nando/OE3-Asset_Capacity_Critical_V) (***available soon***)
-- [OE Algorithm 4: Asset Capacity & Delta Voltage OE](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V) (***available soon***)
+- [OE Algorithm 1: Ideal](https://github.com/Team-Nando/OE1-Ideal) (***coming soon***)
+- [OE Algorithm 2: Asset Capacity](https://github.com/Team-Nando/OE2-Asset_Capacity) (***coming soon***)
+- [OE Algorithm 3: Asset Capacity & Critical Voltage OE](https://github.com/Team-Nando/OE3-Asset_Capacity_Critical_V) (***coming soon***)
+- [OE Algorithm 4: Asset Capacity & Delta Voltage OE](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V) (***coming soon***)
 
 *Want to learn more about ***Operating Envelopes***? Visit [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge).*
 
