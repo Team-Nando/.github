@@ -4,7 +4,7 @@
 
 Here you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy). These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
 
-The repositories have been designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced 😉.
+The repositories have been designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced. If you are a decent coder, you will manage 😉.
 
 In most of our repositories, you will be using [OpenDSS](https://www.epri.com/pages/sa/opendss) - an open source distribution network analysis tool developed by the [Electric Power Research Instutite (EPRI)](https://www.epri.com/), USA. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/), Brazil. So, thanks to our colleagues and friends at EPRI and at UNICAMP for this important contribution to the world! 🙏
 
