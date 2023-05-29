@@ -39,6 +39,7 @@ These repositories provide examples of how the AC Optimal Power Flow (OPF) can b
 
 ## Contact
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
+> ***Want to learn more about our research with industry?** Visit [Our Projects](https://electrical.eng.unimelb.edu.au/power-energy/projects).*<br>
 
 ## Acknowledgement
 The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
