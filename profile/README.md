@@ -18,6 +18,8 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 
 *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
 
+*Want to learn more about ***Model-Free DER Hosting Capacity***? Visit the [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).*
+
 ## 2. Operating Envelope (OE) Algorithms
 These repositories demonstrate, using interactive code via Jupyter Notebook and Python, different Operating Envelope (OE) algorithms that could be implemented by distribution companies. This work is part of the CSIRO-funded project [Assessing the Benefits of Using Operating Envelopes to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia)
 - [OE Algorithm 1: Ideal](https://github.com/Team-Nando/OE1-Ideal) (***coming soon***)
@@ -26,6 +28,8 @@ These repositories demonstrate, using interactive code via Jupyter Notebook and 
 - [OE Algorithm 4: Asset Capacity & Delta Voltage OE](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V) (***coming soon***)
 
 *Want to learn more about ***Operating Envelopes***? Visit [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge).*
+
+*Want to learn more about ***Model-Free Operating Envelopes***? Visit the [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).*
 
 ## 3. DER Profiles
 These repositories provide realistic time-series DER profiles necessary to carry out detailed distribution network studies.
