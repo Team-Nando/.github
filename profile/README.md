@@ -13,7 +13,7 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 - [Part 0: Using dss_python](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-0-dss_python)
 - [Part 1: Advanced Tools for the Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV)
 - [Part 2: Time-Series Analysis and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
-- Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks (***coming soon***)
+- [Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-3-VoltWatt_LV)
 - Part 4: Probabilistic Assessment of PV Hosting Capacity of an Integrated MV-LV Network (***coming soon***)
 
 *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*
