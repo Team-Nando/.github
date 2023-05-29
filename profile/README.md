@@ -2,7 +2,7 @@
 
 ***Interested in Distribution Networks, Distributed Energy Resources (DERs), and Smart Grids?***
 
-Here you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy) 🇦🇺. These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
+Here you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy). These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
 
 The repositories have been designed for power engineers, students, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced 😉.
 
