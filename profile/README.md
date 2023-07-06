@@ -14,7 +14,7 @@ This tutorial will guide you, using interactive code via Jupyter Notebook and Py
 - [Part 1: Advanced Tools for the Analysis of Three-Phase Unbalanced LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-1-AdvancedTools_LV)
 - [Part 2: Time-Series Analysis and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-2-TimeSeries_LV)
 - [Part 3: Volt-Watt Control and PV Hosting Capacity of LV Networks](https://github.com/Team-Nando/Tutorial-DERHostingCapacity-3-VoltWatt_LV)
-- Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated HV-LV Network (***coming soon***)
+- Part 4: Monte Carlo Assessment of PV Hosting Capacity of an Integrated MV-LV Network (***coming soon***)
 
 > *Want to learn more about ***DER Hosting Capacity***? Visit the [PV-Rich Distribution Networks Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and the [EV Integration Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/ev-integration).*<br>
 > *Want to learn more about ***Model-Free DER Hosting Capacity***? Visit the [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).*
