@@ -50,12 +50,11 @@ Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfocho
 > ***Want to learn more about our research with industry?*** Check out [Our Projects](https://electrical.eng.unimelb.edu.au/power-energy/projects).<br>
 
 ## Acknowledgement
-The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
-We also would like to thank AusNet Services [AusNet Services](https://www.ausnetservices.com.au/) for making it possible to share anonymised data with the power community around the world. 🙏
-
+The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).<br>
 * https://sites.google.com/view/luisfochoa/research/research-team
 * https://sites.google.com/view/luisfochoa/research/past-team-members
-
+  
+We also would like to thank [AusNet Services](https://www.ausnetservices.com.au/) for making it possible to share anonymised data with the power community around the world. 🙏
 <!--
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
