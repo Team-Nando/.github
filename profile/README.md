@@ -6,7 +6,7 @@ Here you will find multiple repositories produced by [Prof Nando Ochoa](https://
 
 The repositories have been designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced. If you are a decent coder, you will manage 😉.
 
-In most of our repositories, you will be using [OpenDSS](https://www.epri.com/pages/sa/opendss) - an open-source distribution network analysis tool developed by the [Electric Power Research Institute (EPRI)](https://www.epri.com/), USA. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/), Brazil. So, thanks to our colleagues and friends at EPRI and UNICAMP for this important contribution to the world! 🙏
+In most of our repositories, you will be using [OpenDSS](https://www.epri.com/pages/sa/opendss) - an open-source distribution network analysis tool developed by the [Electric Power Research Institute (EPRI)](https://www.epri.com/), USA. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/), Brazil. You will also use anonymised network and demand data that was kindly provided by the Australian distribution company [AusNet Services](https://www.ausnetservices.com.au/). So, thanks to our colleagues and friends at EPRI, UNICAMP, and AusNet Services for these important contributions to the world! 🙏
 
 ## 1. Tutorial on DER Hosting Capacity
 This tutorial will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks.
@@ -51,6 +51,7 @@ Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfocho
 
 ## Acknowledgement
 The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
+We also would like to thank AusNet Services [AusNet Services](https://www.ausnetservices.com.au/) for making it possible to share anonymised data with the power community around the world. 🙏
 
 * https://sites.google.com/view/luisfochoa/research/research-team
 * https://sites.google.com/view/luisfochoa/research/past-team-members
