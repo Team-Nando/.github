@@ -30,7 +30,7 @@ These repositories demonstrate, using interactive code via Jupyter Notebook and 
 > *Want to learn more about **Model-Free Operating Envelopes***? Check out these papers [[10]](https://www.researchgate.net/publication/366030346_Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data), [[11]](https://www.researchgate.net/publication/373990780_From_Model-Driven_to_Model-Free_Comparisons_using_Real_Smart_Meter_Data_and_Real_Distribution_Network_from_Australia_Study) and our [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).<br>
 
 ## 3. Australian MV-LV Networks and Demand/DER Profiles
-This repository provides real three-phase Australian MV (22kV L-L) distribution networks and corresponding LV (400V L-L) networks down to the connection point of single-phase customers. It also includes a large pool of real 30-min resolution residential demand (kW) profiles.
+This repository provides real three-phase Australian MV (22kV L-L) distribution networks and corresponding _European-style_ LV (400V L-L) networks down to the connection point of single-phase customers. It also includes a large pool of real 30-min resolution residential demand (kW) profiles.
 - [MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks)
 
 This repository provides realistic time-series EV profiles necessary to carry out detailed distribution network studies.
