@@ -41,7 +41,7 @@ This repository provides realistic time-series EV profiles necessary to carry ou
 
 ## 4. Active Network Management
 These repositories show how Active Network Management (ANM) can be used for different distribution network applications.
-- [ANM of LV Networks - Rule-Based Approach](https://github.com/Team-Nando/Balanced-AC-OPF-for-DG-Studies)
+- [ANM of LV Networks - Rule-Based Approach](https://github.com/Team-Nando/ANM-of-LV-Networks-Rule-Based-Approach)
 - [ANM of MV Networks - Balanced AC OPF for Distributed Generation Studies](https://github.com/Team-Nando/Balanced-AC-OPF-for-DG-Studies)
 
 > *Want to learn more about **AC OPF for Distribution***? Check out this article [[16]](https://www.nxtbook.com/nxtbooks/pes/powerenergy_010220/index.php#/p/62) and these papers [[17]](https://www.researchgate.net/publication/224082932_Network_distributed_generation_capacity_analysis_using_OPF_with_voltage_step_constraints), [[18]](https://www.researchgate.net/publication/313344969_AC_OPF_for_smart_distribution_networks_An_efficient_and_robust_quadratic_approach), [[19]](https://www.researchgate.net/publication/340239922_On_the_Fairness_of_PV_Curtailment_Schemes_in_Residential_Distribution_Networks), [[20]](https://www.researchgate.net/publication/348676876_On_the_Implementation_of_OPF-Based_Setpoints_for_Active_Distribution_Networks), [[21]](https://www.researchgate.net/publication/336361185_Implementable_Three-Phase_OPF_Formulations_for_MV-LV_Distribution_Networks_MILP_and_MIQCP), [[22]](https://www.researchgate.net/publication/361412635_Using_OPF-Based_Operating_Envelopes_to_Facilitate_Residential_DER_Services), [[23]](https://www.researchgate.net/publication/346220786_Exploring_the_Use_of_an_ADMM-Based_Three-Phase_AC_OPF_in_PV-Rich_MV-LV_Networks).<br>
