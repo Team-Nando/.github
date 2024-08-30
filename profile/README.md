@@ -28,10 +28,10 @@ These repositories demonstrate, using interactive code via Jupyter Notebook and 
   - [OE Algorithm 3: Asset Capacity & Critical Voltage OE (LV only)](https://github.com/Team-Nando/OE3-Asset_Capacity_Critical_V)
   - [OE Algorithm 4: Asset Capacity & Delta Voltage OE (LV only)](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V)
 - **Calculation of OEs considering MV and LV**
-  - OE Algorithm 1: Ideal (Integrated MV-LV)
-  - OE Algorithm 2: Asset Capacity (Integrated MV-LV)
-  - OE Algorithm 3: Asset Capacity & Critical Voltage OE (Integrated MV-LV)
-  - OE Algorithm 4: Asset Capacity & Delta Voltage OE (Integrated MV-LV)
+  - [OE Algorithm 1: Ideal (Integrated MV-LV)](https://github.com/Team-Nando/OE1-Ideal_Integrated_MV-LV_Calculation)
+  - [OE Algorithm 2: Asset Capacity (Integrated MV-LV)](https://github.com/Team-Nando/OE2-Asset_Capacity_Integrated_MV-LV_Calculation)
+  - [OE Algorithm 3: Asset Capacity & Critical Voltage OE (Integrated MV-LV)](https://github.com/Team-Nando/OE3-Asset_Capacity_Critical_V_Integrated_MV-LV_Calculation)
+  - [OE Algorithm 4: Asset Capacity & Delta Voltage OE (Integrated MV-LV)](https://github.com/Team-Nando/OE4-Asset_Capacity_Delta_V_Integrated_MV-LV_Calculation)
 
 > *Want to learn more about **Operating Envelopes***? Check out this free online course on [Operating Envelopes and Their Implementation](https://electrical.eng.unimelb.edu.au/power-energy/courses), also this article [[6]](https://www.nxtbook.com/nxtbooks/pes/powerenergy_070821/index.php#/p/52), these papers [[7]](https://www.researchgate.net/publication/351196031_Ensuring_Distribution_Network_Integrity_Using_Dynamic_Operating_Limits_for_Prosumers), [[8]](https://www.researchgate.net/publication/361412635_Using_OPF-Based_Operating_Envelopes_to_Facilitate_Residential_DER_Services), [[9]](https://www.researchgate.net/publication/371686444_Assessing_the_Pros_and_Cons_of_Different_Operating_Envelope_Implementations_Across_Australia) and the webinars of our projects [Project EDGE](https://electrical.eng.unimelb.edu.au/power-energy/projects/project-edge) and [Assessing the Benefits of Using OEs to Orchestrate DERs Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/assessing-the-benefits-of-OEs-across-Australia).<br>
 > *Want to learn more about **Model-Free Operating Envelopes***? Check out these papers [[10]](https://www.researchgate.net/publication/366030346_Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data), [[11]](https://www.researchgate.net/publication/373990780_From_Model-Driven_to_Model-Free_Comparisons_using_Real_Smart_Meter_Data_and_Real_Distribution_Network_from_Australia_Study) and our [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).<br>
