@@ -2,11 +2,16 @@
 
 ***Interested in Distribution Networks, Distributed Energy Resources (DERs), and Smart Grids?***
 
-Here you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy). These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
+Here, you will find multiple repositories produced by [Prof Nando Ochoa](https://sites.google.com/view/luisfochoa)’s Research Team at [The University of Melbourne](https://electrical.eng.unimelb.edu.au/power-energy). These repositories can help you understand and develop advanced techniques to model and analyse distribution networks with DERs such as residential solar PV ☀️🏡, electric vehicles 🔌🚗, batteries 🔋, etc.
 
-The repositories have been designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. They require some knowledge of coding (of course! 🤓) but not too advanced. If you are a decent coder, you will manage 😉.
+The repositories have been designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. They require some coding knowledge (of course! 🤓) but not too advanced. If you are a decent coder, you will manage 😉.
 
 In most of our repositories, you will be using [OpenDSS](https://www.epri.com/pages/sa/opendss) - an open-source distribution network analysis tool developed by the [Electric Power Research Institute (EPRI)](https://www.epri.com/), USA. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/), Brazil. You will also use anonymised network and demand data that was kindly provided by the Australian distribution company [AusNet Services](https://www.ausnetservices.com.au/). So, thanks to our colleagues and friends at EPRI, UNICAMP, and AusNet Services for these important contributions to the world! 🙏
+
+>
+> **<ins>New</ins>: Google Colab!**
+> Our repos now have the option of using Google Colab  <a target="_blank" href="https://colab.research.google.com/"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> , a free hosted Jupyter Notebook service. You will be able to run the code without installing anything! 🤓💪
+>
 
 ## 1. Tutorial on DER Hosting Capacity
 This tutorial will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks.
@@ -37,7 +42,7 @@ These repositories demonstrate, using interactive code via Jupyter Notebook and 
 > *Want to learn more about **Model-Free Operating Envelopes***? Check out these papers [[10]](https://www.researchgate.net/publication/366030346_Electrical_Model-Free_Voltage_Calculations_Using_Neural_Networks_and_Smart_Meter_Data), [[11]](https://www.researchgate.net/publication/373990780_From_Model-Driven_to_Model-Free_Comparisons_using_Real_Smart_Meter_Data_and_Real_Distribution_Network_from_Australia_Study) and our [Model-Free Project](https://electrical.eng.unimelb.edu.au/power-energy/projects/model-free-operating-envelopes).<br>
 
 ## 3. Australian MV-LV Networks and Demand/DER Profiles
-This repository provides four real large-scale three-phase Australian MV (22kV L-L) distribution networks and corresponding pseudo LV networks (_European-style_ three-phase networks for urban and two-phase networks for rural) down to the connection point of single-phase customers (the pseudo LV networks have been created following modern Australian LV design principles [[12]](https://www.researchgate.net/publication/344346531_On_the_role_of_integrated_MV-LV_network_modelling_in_DER_studies)). These networks are run and operated by [AusNet Services](https://www.ausnetservices.com.au/), a distribution company in the State of Victoria. This repository also includes a large pool of anonymised real 30-min resolution residential demand (kW) profiles. Furthermore, this repository provides the code necessary to extract network data, run time-series power flow simulations, and visualise the results including geographical data, voltage profiles, and asset utilisation.
+This repository provides four real large-scale three-phase Australian MV (22kV L-L) distribution networks and corresponding pseudo LV networks (_European-style_ three-phase networks for urban and two-phase networks for rural) down to the connection point of single-phase customers (the pseudo LV networks have been created following modern Australian LV design principles [[12]](https://www.researchgate.net/publication/344346531_On_the_role_of_integrated_MV-LV_network_modelling_in_DER_studies)). These networks are run and operated by [AusNet Services](https://www.ausnetservices.com.au/), a distribution company in the State of Victoria. This repository also includes a large pool of anonymised real 30-min resolution residential demand (kW) profiles. Furthermore, this repository provides the code necessary to extract network data, run time-series power flow simulations, and visualise the results, including geographical data, voltage profiles, and asset utilisation.
 
 - [MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks)
 
@@ -60,7 +65,7 @@ Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfocho
 > ***Want to learn more about our research with industry?*** Check out [Our Projects](https://electrical.eng.unimelb.edu.au/power-energy/projects).<br>
 
 ## Acknowledgement
-The contents of these repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).<br>
+These repositories have been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).<br>
 * https://sites.google.com/view/luisfochoa/research/research-team
 * https://sites.google.com/view/luisfochoa/research/past-team-members
   
